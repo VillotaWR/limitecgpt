@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.4">
+    <config>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <corbanda>FFFFFF</corbanda>
+        <cornavega>008080</cornavega>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <titulo>¿Cómo la Inteligencia Artificial está transformando la enseñanza y el aprendizaje?</titulo>
+        <subtitulo>Wellington Villota - Repasa lo aprendido</subtitulo>
+        <autor>Wellington Villota O</autor>
+        <logo>logo.jpg</logo>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="correcto.mp3" modo="1" >Muy bien!</correcto>
+        <incorrecto son="incorrecto.mp3" modo="1" >Vuelva a intentarlo</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>18</tipo>
+              <cabeceira>Seleccione los títulos de cada aspecto clave a tomar en cuenta para poder obtener respuestas en Chat GPT precisas y confiables</cabeceira>
+              <modo>3</modo>
+              <completa ant="1. ChatGPT ha sido entrenado con datos hasta septiembre de 2021. Esto significa que no posee información actualizada ni conocimientos sobre eventos o noticias recientes, lo que puede afectar la relevancia y exactitud de sus respuestas. " post="">Limitaciones en los datos de entrenamiento</completa>
+              <completa ant="2. Aunque ChatGPT ha sido entrenado en varios idiomas, su rendimiento óptimo es en inglés. Para otros idiomas, su desempeño puede ser limitado, lo que podría resultar en interpretaciones inexactas. " post="">Limitaciones lingüisticas</completa>
+              <completa ant="3. ChatGPT no posee un entendimiento de temas éticos y morales, lo que puede resultar en respuestas poco adecuadas o que no aborden de manera responsable estos temas complejos" post="">Falta de comprensión sobre temas éticos y morales</completa>
+        </paxina>
+    </libro>
+</lim>
